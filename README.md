@@ -1,4 +1,4 @@
-![VOLT - A small barebone PHP MVC Framework](public/assets/img/volt.png)
+![VOLT - A MVC Framework build using PHP](public/assets/img/logo.png)
 
 # VOLT
 
@@ -13,6 +13,8 @@ but still leaves enough space to expand on it's core functionality.
 - Comes with [Bootstrap](https://getbootstrap.com/docs/4.1/layout/overview/) out of the box
 - Uses PDO for database connectivity
 - Native PHP code, framework can be understood in minutes
+
+![VOLT - A MVC Framework build using PHP](public/assets/img/volt.png)
 
 ## Installation
 
