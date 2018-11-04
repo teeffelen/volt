@@ -10,7 +10,7 @@ but still leaves enough space to expand on it's core functionality.
 
 - Simple and light framework
 - Makes URL's clean again, no more `example.com?id=42&page=answer`
-- Comes with Bootstrap out of the box
+- Comes with [Bootstrap](https://getbootstrap.com/docs/4.1/layout/overview/) out of the box
 - Uses PDO for database connectivity
 - Native PHP code, framework can be understood in minutes
 
@@ -40,3 +40,7 @@ but still leaves enough space to expand on it's core functionality.
 ## Security
 
 VOLT makes use of `mod_rewrite` and blocks all access to everything outside the `public/` folder. Your .git folder/files, operating system temp files, the application-folder and everything else is not accessible. For database requests PDO is used, so no need to think about SQL injection (unless you are using extremely outdated MySQL versions).
+
+## Issues
+
+Found a bug that is not supposed to be a feature? let me know by opening a [issue](https://github.com/Teeffelen/volt/issues) and I will try to fix it as soon as possible!
