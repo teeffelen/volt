@@ -1,5 +1,7 @@
+![VOLT - A small barebone PHP MVC Framework](public/assets/img/volt.png)
+
 # VOLT
-Personal PHP MVC Framework
+Small MVC Framework powered by PHP.
 
 # Installation
 1. Download or Clone the VOLT repository from [here](https://github.com/Teeffelen/volt/archive/master.zip).
