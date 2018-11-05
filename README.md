@@ -11,7 +11,7 @@ but still leaves enough space to expand on it's core functionality.
 - Simple and light framework
 - Makes URL's clean again, no more `example.com?id=42&page=answer`
 - Comes with [Bootstrap](https://getbootstrap.com/docs/4.1/layout/overview/) out of the box
-- Comes with [Font Awesome](https://fontawesome.com/) (free) out of the box
+- Comes with [Font Awesome (free)](https://fontawesome.com/icons?d=gallery&m=free) out of the box
 - Uses PDO for database connectivity
 - Native PHP code, framework can be understood in minutes
 
