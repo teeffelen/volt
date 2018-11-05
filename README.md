@@ -3,7 +3,7 @@
 # VOLT
 
 VOLT is a small MVC Framework powered by PHP. It's goal is not to be a professional MVC framework that can handle lots of data and users,
-it is meant for people starting with PHP who want some or all features listed below. It is fully operational out-of-the-box,
+it is meant for people starting with PHP who want some or all features listed below. It is fully operational out of the box,
 but still leaves enough space to expand on it's core functionality.
 
 ## Features
@@ -11,6 +11,7 @@ but still leaves enough space to expand on it's core functionality.
 - Simple and light framework
 - Makes URL's clean again, no more `example.com?id=42&page=answer`
 - Comes with [Bootstrap](https://getbootstrap.com/docs/4.1/layout/overview/) out of the box
+- Comes with [Font Awesome](https://fontawesome.com/) (free) out of the box
 - Uses PDO for database connectivity
 - Native PHP code, framework can be understood in minutes
 
